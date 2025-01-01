@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967858526576",
+    "project_id": "cafe-ordering-system",
+    "storage_bucket": "cafe-ordering-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967858526576:android:d92f1df8fba683d64d17b5",
+        "android_client_info": {
+          "package_name": "com.mycompany.cafeorderingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuYDrM1OKB70RtqjERAiVsi5SINX3Voo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
